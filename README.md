@@ -1,6 +1,6 @@
 # The Pirate Translator
 
-# An Interactice Webapp using vanillaJS
+<h3># An Interactice Webapp using vanillaJS</h3>
 
 The app will help you to translate the English text into the
 Pirate language so that you can talk to a Pirate 🏴‍☠️
