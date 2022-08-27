@@ -9,7 +9,7 @@ body {
     text-align: center;
     
     background-image: url("pirates.png");
-    cross-fade(url(pirates.png) 100%, url(black.png) 0%);
+    background-image:cross-fade(url(pirates.png) 100%, url(black.png) 0%);
     background-repeat: no-repeat;
     background-size: cover;
     background-image: cross-fade();
