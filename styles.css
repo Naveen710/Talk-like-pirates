@@ -7,36 +7,28 @@ body {
     font-size: large;
     margin: auto;
     text-align: center;
-    
-    background-image: url("pirates.png");
-    background-image:cross-fade(url(pirates.png) 100%, url(black.png) 0%);
+    background-image: url("/images/pirates.png");
+    background-image: cross-fade(url(pirates.png) 100%, url(black.png) 0%);
     background-repeat: no-repeat;
     background-size: cover;
     background-image: cross-fade();
-    background-image: cross-fade(); 
-    color:white;
-  
-
- 
+    background-image: cross-fade();
+    color: white;
 
 }
 
-    
-    
-
-
 textarea {
-   width:90%;
+    width: 90%;
     display: block;
     height: 13vh;
     padding: 1rem;
     margin: 1rem;
-       border-radius: 1rem;
+    border-radius: 1rem;
 
 }
 
 #output {
-    
+
     display: block;
     margin: 1rem;
     padding: 1rem 1rem;
@@ -45,36 +37,35 @@ textarea {
     border: 1px solid black;
 }
 
-
-
-
 .header {
     text-align: center;
-    
-    max-width:none;
-    
+
+    max-width: none;
+
     border-bottom-right-radius: 2rem;
     padding: 0.25rem 0.25rem;
 
 }
-img{
+
+img {
     display: block;
     margin: auto;
     width: 200px;
     height: auto;
     padding: 1rem;
 }
-.main-style{
+
+.main-style {
     display: block;
-    max-width: 500px; 
+    max-width: 500px;
     margin: auto;
 }
 
 #btn-translate {
     text-align: center;
-    
-     margin: auto;
-   border-radius: 0.5rem;
+
+    margin: auto;
+    border-radius: 0.5rem;
     font-size: larger;
 
 }
@@ -86,14 +77,15 @@ img{
 
 
 .footer {
-    
+
     text-align: center;
     border-radius: 0.5rem;
     padding: 2rem 1rem;
     border-top-left-radius: 2rem;
-    
+
 }
-.link{
+
+.link {
     text-decoration: none;
 
 }
