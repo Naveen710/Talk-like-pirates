@@ -4,7 +4,7 @@ var btnTranslate = document.querySelector("#btn-translate")
 var txtInput = document.querySelector("#txt-input")
 var txtOutput = document.querySelector("#txt-output")
 
-var serverUrl = 'https://api.funtranslations.com/translate/yoda.json';
+var serverUrl = 'https://api.funtranslations.com/translate/pirate.json';
 
 function getTranslationUrl(text) {
     return serverUrl + "?" + "text=" + text;
